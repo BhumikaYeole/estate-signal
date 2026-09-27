@@ -1,0 +1,5 @@
+streamlit>=1.38,<2.0
+scikit-learn>=1.4,<2.0
+spacy>=3.7,<4.0
+nltk>=3.8,<4.0
+pytest>=8.0,<9.0
